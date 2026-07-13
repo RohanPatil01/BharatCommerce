@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice,SellingPrice
+P001,Samsung Galaxy A54,Electronics,Smartphones,Samsung,18000,24999
+P002,Apple iPhone 15 Pro Max,Electronics,Smartphones,Apple,70000,84999
+P003,Redmi Note 13 Pro,Electronics,Smartphones,Redmi,16500,21999
+P004,OnePlus Nord 4,Electronics,Smartphones,OnePlus,21900,29999
+P005,Dell Inspiron 15 Laptop,Electronics,Laptops,Dell,41000,49999
+P006,Sony Bravia 55-inch TV,Electronics,Televisions,Sony,38500,54999
+P007,Apple MacBook Air,Electronics,Laptops,Apple,48500,58999
+P008,boAt Airdopes 141,Electronics,Audio,boAt,990,1799
+P009,Samsung Galaxy Tab A9,Electronics,Tablets,Samsung,7920,10999
+P010,LG 43-inch Smart TV,Electronics,Televisions,LG,25900,36999
+P011,Colgate Strong Teeth Toothpaste 200g,FMCG,Personal Care,Colgate,239,299
+P012,Surf Excel Detergent Powder 1kg,FMCG,Home Care,Surf Excel,328,420
+P013,Britannia Assorted Cookies 300g,FMCG,Food & Beverages,Britannia,144,175
+P014,Parle-G Biscuits 200g,FMCG,Food & Beverages,Parle,20,24
+P015,Amul Butter 500g,FMCG,Dairy,Amul,210,265
+P016,Dabur Honey 250g,FMCG,Health & Wellness,Dabur,90,115
+P017,Maggi 2-Minute Noodles Family Pack,FMCG,Food & Beverages,Maggi,384,480
+P018,Patanjali Atta 5kg,FMCG,Staples,Patanjali,174,210
+P019,Tata Sampann Spices Combo Pack,FMCG,Staples,Tata,656,820
+P020,Lifebuoy Soap Pack of 4,FMCG,Personal Care,Lifebuoy,197,240
+P021,Peter England Formal Shirt,Apparel,Menswear,Peter England,844,1299
+P022,Zara Denim Jacket,Apparel,Casual Wear,Zara,2380,3499
+P023,Biba Kurta Set,Apparel,Ethnic Wear,Biba,970,1499
+P024,FabIndia Cotton Kurta,Apparel,Ethnic Wear,FabIndia,745,1199
+P025,Allen Solly Casual Shirt,Apparel,Menswear,Allen Solly,1495,2199
+P026,Raymond Premium Suit Fabric,Apparel,Formal Wear,Raymond,3900,5999
+P027,W Printed Kurti,Apparel,Womenswear,W,715,1099
+P028,Levi's Cotton T-Shirt,Apparel,Casual Wear,Levi's,475,699
+P029,Manyavar Ethnic Kurta Set,Apparel,Ethnic Wear,Manyavar,2400,3999
+P030,Manyavar Wedding Sherwani,Apparel,Ethnic Wear,Manyavar,5200,8999

@@ -1,0 +1,501 @@
+CustomerID,CustomerName,State,City,AgeGroup,Gender,CustomerType
+C0001,Ishan Bhatnagar,Rajasthan,Jaipur,26-35,Male,Retail
+C0002,Himanshu Chatterjee,Karnataka,Bengaluru,55+,Male,Retail
+C0003,Aditya Das,Gujarat,Ahmedabad,26-35,Male,Retail
+C0004,Aditya Ghosh,Gujarat,Ahmedabad,55+,Male,Retail
+C0005,Pooja Mukherjee,Rajasthan,Jaipur,18-25,Female,Wholesale
+C0006,Nikhil Shukla,Gujarat,Surat,36-45,Male,Retail
+C0007,Bhavna Desai,Karnataka,Bengaluru,46-55,Female,Retail
+C0008,Deepika Pandey,Rajasthan,Jaipur,18-25,Female,Wholesale
+C0009,Sonal Dubey,Maharashtra,Nagpur,18-25,Female,Retail
+C0010,Chetna Sahni,Assam,Guwahati,26-35,Female,Wholesale
+C0011,Ankit Khan,Uttar Pradesh,Lucknow,18-25,Male,Wholesale
+C0012,Harshit Sharma,Rajasthan,Jaipur,46-55,Male,Retail
+C0013,Garima Jain,Kerala,Kochi,36-45,Female,Retail
+C0014,Tarun Choudhary,Punjab,Amritsar,26-35,Male,Retail
+C0015,Saurabh Jain,Tamil Nadu,Coimbatore,46-55,Male,Retail
+C0016,Tanya Khan,Gujarat,Surat,18-25,Female,Retail
+C0017,Amit Pillai,Maharashtra,Nagpur,36-45,Male,Retail
+C0018,Usha Pillai,Gujarat,Ahmedabad,46-55,Female,Retail
+C0019,Preeti Iyer,Rajasthan,Jaipur,26-35,Female,Retail
+C0020,Tanya Chatterjee,Rajasthan,Jaipur,55+,Female,Retail
+C0021,Vidya Singh,Kerala,Kochi,26-35,Female,Wholesale
+C0022,Kunal Yadav,Bihar,Patna,18-25,Male,Wholesale
+C0023,Ishan Iyer,West Bengal,Kolkata,46-55,Male,Retail
+C0024,Kavya Sharma,Punjab,Amritsar,46-55,Female,Retail
+C0025,Tanvi Agarwal,Telangana,Hyderabad,55+,Female,Wholesale
+C0026,Bhavna Dubey,Uttar Pradesh,Lucknow,46-55,Female,Retail
+C0027,Aarav Mehta,Madhya Pradesh,Bhopal,26-35,Male,Retail
+C0028,Himanshu Patel,Madhya Pradesh,Bhopal,55+,Male,Retail
+C0029,Ishita Jain,Jharkhand,Ranchi,55+,Female,Wholesale
+C0030,Zara Pillai,Bihar,Patna,18-25,Female,Retail
+C0031,Garima Patel,Maharashtra,Pune,18-25,Female,Retail
+C0032,Usha Das,Karnataka,Bengaluru,46-55,Female,Wholesale
+C0033,Sonal Gupta,Tamil Nadu,Chennai,46-55,Female,Wholesale
+C0034,Nishant Mehta,Madhya Pradesh,Bhopal,55+,Male,Retail
+C0035,Ravi Chatterjee,Gujarat,Ahmedabad,36-45,Male,Retail
+C0036,Ishita Sinha,Madhya Pradesh,Bhopal,46-55,Female,Retail
+C0037,Rohan Choudhary,Gujarat,Surat,18-25,Male,Retail
+C0038,Sachin Mukherjee,Maharashtra,Pune,18-25,Male,Retail
+C0039,Bhavesh Khan,Karnataka,Bengaluru,18-25,Male,Wholesale
+C0040,Deepak Yadav,Maharashtra,Pune,36-45,Male,Retail
+C0041,Karan Malhotra,Assam,Guwahati,46-55,Male,Retail
+C0042,Radha Shah,Gujarat,Ahmedabad,18-25,Female,Retail
+C0043,Neha Reddy,Madhya Pradesh,Indore,46-55,Female,Retail
+C0044,Ankur Desai,Delhi,Delhi,46-55,Male,Wholesale
+C0045,Himanshu Kumar,Gujarat,Ahmedabad,26-35,Male,Retail
+C0046,Kunal Shukla,West Bengal,Kolkata,36-45,Male,Retail
+C0047,Deepak Sinha,Jharkhand,Ranchi,18-25,Male,Retail
+C0048,Swati Agarwal,Karnataka,Bengaluru,26-35,Female,Retail
+C0049,Riya Tripathi,Gujarat,Ahmedabad,46-55,Female,Wholesale
+C0050,Nishant Sharma,Maharashtra,Mumbai,46-55,Male,Retail
+C0051,Preeti Nair,Madhya Pradesh,Indore,55+,Female,Retail
+C0052,Riya Iyer,Gujarat,Ahmedabad,36-45,Female,Retail
+C0053,Bhavesh Mukherjee,Jharkhand,Ranchi,18-25,Male,Wholesale
+C0054,Bhavesh Chauhan,Assam,Guwahati,46-55,Male,Retail
+C0055,Sneha Jain,Delhi,Delhi,55+,Female,Retail
+C0056,Prateek Choudhary,Punjab,Amritsar,18-25,Male,Retail
+C0057,Sahil Singh,Telangana,Hyderabad,55+,Male,Retail
+C0058,Zara Bose,Punjab,Amritsar,18-25,Female,Retail
+C0059,Vidya Malhotra,Madhya Pradesh,Bhopal,36-45,Female,Wholesale
+C0060,Rajan Pillai,Maharashtra,Pune,36-45,Male,Retail
+C0061,Vinay Tiwari,Gujarat,Surat,18-25,Male,Retail
+C0062,Chetna Malhotra,Telangana,Hyderabad,18-25,Female,Retail
+C0063,Sandhya Mehta,Tamil Nadu,Chennai,36-45,Female,Wholesale
+C0064,Saurabh Sahni,Uttar Pradesh,Lucknow,26-35,Male,Retail
+C0065,Swati Patel,Punjab,Amritsar,55+,Female,Retail
+C0066,Tanvi Patel,Telangana,Hyderabad,26-35,Female,Retail
+C0067,Himanshu Ghosh,Tamil Nadu,Chennai,36-45,Male,Retail
+C0068,Rajan Rao,Gujarat,Ahmedabad,36-45,Male,Retail
+C0069,Shubham Chauhan,Karnataka,Bengaluru,46-55,Male,Wholesale
+C0070,Ankit Agarwal,Gujarat,Surat,26-35,Male,Retail
+C0071,Suresh Jain,Tamil Nadu,Coimbatore,55+,Male,Wholesale
+C0072,Tanya Agarwal,Telangana,Hyderabad,18-25,Female,Wholesale
+C0073,Mohit Chatterjee,Delhi,Delhi,36-45,Male,Retail
+C0074,Manish Shukla,Tamil Nadu,Chennai,18-25,Male,Retail
+C0075,Ankit Reddy,Gujarat,Ahmedabad,26-35,Male,Retail
+C0076,Divya Ghosh,Madhya Pradesh,Indore,55+,Female,Wholesale
+C0077,Sahil Jain,West Bengal,Kolkata,46-55,Male,Retail
+C0078,Anjali Shah,Maharashtra,Pune,36-45,Female,Retail
+C0079,Himanshu Sharma,Delhi,Delhi,46-55,Male,Retail
+C0080,Preeti Reddy,Uttar Pradesh,Lucknow,26-35,Female,Retail
+C0081,Rahul Singh,Gujarat,Surat,36-45,Male,Wholesale
+C0082,Uday Reddy,Madhya Pradesh,Bhopal,46-55,Male,Retail
+C0083,Sonal Rao,Maharashtra,Mumbai,18-25,Female,Wholesale
+C0084,Suresh Joshi,Assam,Guwahati,36-45,Male,Retail
+C0085,Zara Shukla,Kerala,Kochi,36-45,Female,Retail
+C0086,Shivani Dubey,Maharashtra,Nagpur,55+,Female,Retail
+C0087,Ankit Shukla,Maharashtra,Mumbai,55+,Male,Wholesale
+C0088,Sonal Kapoor,Kerala,Kochi,46-55,Female,Retail
+C0089,Anjali Saxena,Gujarat,Surat,18-25,Female,Wholesale
+C0090,Vinay Yadav,Uttar Pradesh,Lucknow,46-55,Male,Retail
+C0091,Vikram Ghosh,Tamil Nadu,Chennai,26-35,Male,Retail
+C0092,Jyoti Joshi,Punjab,Amritsar,55+,Female,Retail
+C0093,Vinay Nair,Gujarat,Ahmedabad,46-55,Male,Wholesale
+C0094,Aarti Pillai,Tamil Nadu,Coimbatore,46-55,Female,Retail
+C0095,Ravi Yadav,Bihar,Patna,26-35,Male,Retail
+C0096,Varun Yadav,Punjab,Amritsar,36-45,Male,Retail
+C0097,Sahil Patel,Maharashtra,Pune,26-35,Male,Retail
+C0098,Ankit Kumar,Bihar,Patna,55+,Male,Wholesale
+C0099,Deepak Tiwari,Madhya Pradesh,Indore,55+,Male,Retail
+C0100,Kavya Varma,Maharashtra,Nagpur,26-35,Female,Retail
+C0101,Aarav Desai,Madhya Pradesh,Indore,26-35,Male,Retail
+C0102,Simran Tiwari,Delhi,Delhi,55+,Female,Retail
+C0103,Jatin Tiwari,Tamil Nadu,Chennai,46-55,Male,Retail
+C0104,Tanya Pandey,Gujarat,Surat,46-55,Female,Retail
+C0105,Sandhya Shukla,Jharkhand,Ranchi,46-55,Female,Wholesale
+C0106,Radha Sinha,Rajasthan,Jaipur,26-35,Female,Wholesale
+C0107,Uday Banerjee,Bihar,Patna,26-35,Male,Retail
+C0108,Deepak Nair,Maharashtra,Pune,36-45,Male,Retail
+C0109,Swati Das,Tamil Nadu,Chennai,26-35,Female,Retail
+C0110,Mohit Kaur,Karnataka,Bengaluru,46-55,Male,Retail
+C0111,Swati Tiwari,Madhya Pradesh,Indore,18-25,Female,Retail
+C0112,Meera Sharma,Assam,Guwahati,18-25,Female,Wholesale
+C0113,Vandana Sharma,Bihar,Patna,18-25,Female,Wholesale
+C0114,Vinay Sharma,Madhya Pradesh,Indore,55+,Male,Wholesale
+C0115,Swati Pandey,Maharashtra,Pune,46-55,Female,Retail
+C0116,Neha Varma,Maharashtra,Mumbai,46-55,Female,Retail
+C0117,Lakshmi Jain,Tamil Nadu,Coimbatore,26-35,Female,Wholesale
+C0118,Sonal Bhatnagar,Maharashtra,Nagpur,55+,Female,Retail
+C0119,Nandini Gupta,Tamil Nadu,Coimbatore,26-35,Female,Retail
+C0120,Jyoti Pillai,Gujarat,Ahmedabad,46-55,Female,Retail
+C0121,Jyoti Mishra,Madhya Pradesh,Indore,36-45,Female,Wholesale
+C0122,Radha Bhatnagar,Jharkhand,Ranchi,18-25,Female,Wholesale
+C0123,Deepika Khan,Karnataka,Bengaluru,18-25,Female,Wholesale
+C0124,Saurabh Kapoor,Maharashtra,Mumbai,55+,Male,Retail
+C0125,Karan Tripathi,Telangana,Hyderabad,55+,Male,Wholesale
+C0126,Priya Mehta,Kerala,Kochi,26-35,Female,Retail
+C0127,Ishan Jain,Uttar Pradesh,Lucknow,18-25,Male,Retail
+C0128,Vivek Malhotra,Maharashtra,Nagpur,46-55,Male,Wholesale
+C0129,Raj Choudhary,Assam,Guwahati,26-35,Male,Retail
+C0130,Vinay Pandey,Telangana,Hyderabad,55+,Male,Wholesale
+C0131,Deepika Chatterjee,Madhya Pradesh,Indore,36-45,Female,Retail
+C0132,Bhavna Agarwal,Madhya Pradesh,Indore,46-55,Female,Retail
+C0133,Garima Tiwari,Tamil Nadu,Chennai,46-55,Female,Retail
+C0134,Simran Mishra,Punjab,Amritsar,55+,Female,Wholesale
+C0135,Priya Shukla,Assam,Guwahati,36-45,Female,Retail
+C0136,Saurabh Das,Rajasthan,Jaipur,46-55,Male,Retail
+C0137,Priya Malhotra,Punjab,Amritsar,46-55,Female,Retail
+C0138,Saloni Pillai,West Bengal,Kolkata,46-55,Female,Retail
+C0139,Suresh Rao,Rajasthan,Jaipur,55+,Male,Wholesale
+C0140,Uday Ghosh,Maharashtra,Mumbai,55+,Male,Wholesale
+C0141,Dhruv Kumar,Madhya Pradesh,Indore,46-55,Male,Retail
+C0142,Sahil Tripathi,Bihar,Patna,46-55,Male,Wholesale
+C0143,Gaurav Nair,Maharashtra,Pune,46-55,Male,Retail
+C0144,Vivek Mukherjee,Kerala,Kochi,46-55,Male,Retail
+C0145,Deepika Shukla,Jharkhand,Ranchi,36-45,Female,Retail
+C0146,Preeti Mishra,Uttar Pradesh,Lucknow,36-45,Female,Retail
+C0147,Rahul Pillai,Telangana,Hyderabad,55+,Male,Wholesale
+C0148,Prateek Kapoor,Gujarat,Ahmedabad,46-55,Male,Retail
+C0149,Yashasvi Banerjee,Punjab,Amritsar,36-45,Female,Wholesale
+C0150,Rahul Nair,Maharashtra,Pune,36-45,Male,Retail
+C0151,Arjun Chatterjee,Tamil Nadu,Chennai,36-45,Male,Retail
+C0152,Ankur Ghosh,Uttar Pradesh,Lucknow,26-35,Male,Retail
+C0153,Riya Desai,Maharashtra,Mumbai,55+,Female,Retail
+C0154,Rashmi Sinha,Gujarat,Surat,26-35,Female,Wholesale
+C0155,Shubham Tripathi,Telangana,Hyderabad,18-25,Male,Retail
+C0156,Deepak Malhotra,Delhi,Delhi,26-35,Male,Retail
+C0157,Usha Patel,Karnataka,Bengaluru,26-35,Female,Retail
+C0158,Meera Pandey,Punjab,Amritsar,55+,Female,Retail
+C0159,Simran Sharma,Tamil Nadu,Coimbatore,46-55,Female,Retail
+C0160,Yashasvi Shukla,Uttar Pradesh,Lucknow,55+,Female,Retail
+C0161,Bhumi Desai,Gujarat,Ahmedabad,26-35,Female,Retail
+C0162,Dhruv Jain,Maharashtra,Pune,26-35,Male,Retail
+C0163,Nikhil Agarwal,Madhya Pradesh,Indore,46-55,Male,Retail
+C0164,Radha Nair,Delhi,Delhi,26-35,Female,Retail
+C0165,Varun Tiwari,Karnataka,Bengaluru,26-35,Male,Wholesale
+C0166,Yashasvi Kapoor,Madhya Pradesh,Indore,18-25,Female,Retail
+C0167,Mohit Mishra,Tamil Nadu,Chennai,18-25,Male,Retail
+C0168,Vivek Pandey,Assam,Guwahati,36-45,Male,Retail
+C0169,Priya Patel,Maharashtra,Nagpur,36-45,Female,Retail
+C0170,Saloni Sinha,Karnataka,Bengaluru,55+,Female,Retail
+C0171,Neha Pillai,Punjab,Amritsar,36-45,Female,Retail
+C0172,Sachin Malhotra,Assam,Guwahati,18-25,Male,Wholesale
+C0173,Tarun Malhotra,Delhi,Delhi,26-35,Male,Retail
+C0174,Pallavi Mishra,West Bengal,Kolkata,55+,Female,Retail
+C0175,Riya Das,Bihar,Patna,36-45,Female,Retail
+C0176,Ananya Desai,West Bengal,Kolkata,36-45,Female,Retail
+C0177,Saloni Nair,Maharashtra,Nagpur,55+,Female,Retail
+C0178,Gaurav Pillai,Rajasthan,Jaipur,36-45,Male,Retail
+C0179,Lakshmi Yadav,Maharashtra,Mumbai,55+,Female,Retail
+C0180,Ankur Kapoor,Madhya Pradesh,Bhopal,36-45,Male,Retail
+C0181,Ankur Kaur,Rajasthan,Jaipur,55+,Male,Retail
+C0182,Varun Sinha,Bihar,Patna,18-25,Male,Retail
+C0183,Aarti Kumar,West Bengal,Kolkata,36-45,Female,Retail
+C0184,Tanvi Shah,Karnataka,Bengaluru,26-35,Female,Wholesale
+C0185,Ishan Tiwari,Telangana,Hyderabad,26-35,Male,Retail
+C0186,Vikram Yadav,Rajasthan,Jaipur,46-55,Male,Wholesale
+C0187,Radha Kumar,Tamil Nadu,Coimbatore,55+,Female,Retail
+C0188,Rahul Pandey,Madhya Pradesh,Bhopal,26-35,Male,Wholesale
+C0189,Uday Shah,Gujarat,Surat,55+,Male,Retail
+C0190,Aarav Nair,Uttar Pradesh,Lucknow,55+,Male,Retail
+C0191,Pooja Chatterjee,Bihar,Patna,36-45,Female,Retail
+C0192,Swati Sharma,Tamil Nadu,Coimbatore,36-45,Female,Wholesale
+C0193,Sahil Malhotra,Maharashtra,Nagpur,26-35,Male,Wholesale
+C0194,Megha Bose,Gujarat,Surat,46-55,Female,Wholesale
+C0195,Jyoti Sharma,Tamil Nadu,Chennai,46-55,Female,Wholesale
+C0196,Karan Yadav,Assam,Guwahati,36-45,Male,Wholesale
+C0197,Pallavi Desai,Madhya Pradesh,Bhopal,46-55,Female,Retail
+C0198,Manish Shah,Tamil Nadu,Chennai,18-25,Male,Retail
+C0199,Chetna Singh,Karnataka,Bengaluru,36-45,Female,Wholesale
+C0200,Sonal Sharma,Gujarat,Surat,46-55,Female,Wholesale
+C0201,Amit Saxena,Karnataka,Bengaluru,26-35,Male,Retail
+C0202,Varun Khan,Karnataka,Bengaluru,46-55,Male,Wholesale
+C0203,Harshit Sinha,West Bengal,Kolkata,36-45,Male,Wholesale
+C0204,Ankit Pillai,Delhi,Delhi,36-45,Male,Retail
+C0205,Neha Iyer,Maharashtra,Pune,55+,Female,Retail
+C0206,Prateek Jain,West Bengal,Kolkata,18-25,Male,Retail
+C0207,Jyoti Saxena,Maharashtra,Pune,46-55,Female,Wholesale
+C0208,Manish Khan,Tamil Nadu,Coimbatore,36-45,Male,Retail
+C0209,Arjun Tiwari,Uttar Pradesh,Lucknow,55+,Male,Retail
+C0210,Pallavi Reddy,Assam,Guwahati,36-45,Female,Retail
+C0211,Nandini Mehta,Tamil Nadu,Coimbatore,36-45,Female,Retail
+C0212,Kavya Tripathi,Telangana,Hyderabad,26-35,Female,Retail
+C0213,Divya Malhotra,Uttar Pradesh,Lucknow,36-45,Female,Retail
+C0214,Kritika Mishra,Maharashtra,Mumbai,55+,Female,Wholesale
+C0215,Ankur Pandey,Bihar,Patna,36-45,Male,Wholesale
+C0216,Sachin Pandey,Kerala,Kochi,26-35,Male,Retail
+C0217,Chetna Mehta,Tamil Nadu,Chennai,18-25,Female,Wholesale
+C0218,Ankit Patel,Tamil Nadu,Coimbatore,18-25,Male,Retail
+C0219,Karan Das,Uttar Pradesh,Lucknow,36-45,Male,Wholesale
+C0220,Parag Kapoor,Tamil Nadu,Chennai,55+,Male,Wholesale
+C0221,Garima Banerjee,Madhya Pradesh,Bhopal,36-45,Female,Wholesale
+C0222,Vikram Rao,Telangana,Hyderabad,46-55,Male,Wholesale
+C0223,Kritika Ghosh,Kerala,Kochi,18-25,Female,Wholesale
+C0224,Arjun Mehta,Jharkhand,Ranchi,18-25,Male,Retail
+C0225,Suresh Mukherjee,Maharashtra,Nagpur,36-45,Male,Retail
+C0226,Sachin Tripathi,Maharashtra,Mumbai,55+,Male,Wholesale
+C0227,Tanya Pillai,Punjab,Amritsar,26-35,Female,Retail
+C0228,Megha Dubey,Tamil Nadu,Chennai,18-25,Female,Wholesale
+C0229,Vinay Varma,Telangana,Hyderabad,18-25,Male,Retail
+C0230,Kavya Tiwari,Kerala,Kochi,55+,Female,Retail
+C0231,Mohit Shah,Telangana,Hyderabad,46-55,Male,Retail
+C0232,Uday Bose,Kerala,Kochi,26-35,Male,Retail
+C0233,Sahil Sahni,Telangana,Hyderabad,36-45,Male,Retail
+C0234,Divya Chauhan,Maharashtra,Nagpur,36-45,Female,Retail
+C0235,Gaurav Kaur,Punjab,Amritsar,18-25,Male,Retail
+C0236,Anjali Kumar,Tamil Nadu,Chennai,55+,Female,Retail
+C0237,Tanvi Kaur,Assam,Guwahati,26-35,Female,Wholesale
+C0238,Sachin Rao,Tamil Nadu,Chennai,55+,Male,Retail
+C0239,Manish Gupta,Jharkhand,Ranchi,36-45,Male,Wholesale
+C0240,Karan Agarwal,Kerala,Kochi,26-35,Male,Retail
+C0241,Aryan Joshi,Rajasthan,Jaipur,18-25,Male,Retail
+C0242,Meera Banerjee,Telangana,Hyderabad,18-25,Female,Retail
+C0243,Garima Yadav,Assam,Guwahati,18-25,Female,Retail
+C0244,Rohan Saxena,Delhi,Delhi,55+,Male,Retail
+C0245,Aditya Chauhan,Bihar,Patna,46-55,Male,Retail
+C0246,Himanshu Varma,Tamil Nadu,Coimbatore,18-25,Male,Wholesale
+C0247,Ananya Pandey,Tamil Nadu,Chennai,18-25,Female,Retail
+C0248,Chetna Mukherjee,Jharkhand,Ranchi,36-45,Female,Retail
+C0249,Zara Banerjee,Uttar Pradesh,Lucknow,46-55,Female,Retail
+C0250,Neha Desai,Telangana,Hyderabad,55+,Female,Wholesale
+C0251,Ravi Shukla,Tamil Nadu,Coimbatore,26-35,Male,Retail
+C0252,Preeti Singh,Madhya Pradesh,Indore,18-25,Female,Retail
+C0253,Aisha Mehta,Kerala,Kochi,26-35,Female,Retail
+C0254,Radha Choudhary,Karnataka,Bengaluru,18-25,Female,Retail
+C0255,Harshit Sahni,Tamil Nadu,Chennai,55+,Male,Retail
+C0256,Tanya Ghosh,Gujarat,Surat,18-25,Female,Retail
+C0257,Nandini Chauhan,Uttar Pradesh,Lucknow,55+,Female,Retail
+C0258,Himanshu Malhotra,Madhya Pradesh,Bhopal,26-35,Male,Retail
+C0259,Rashmi Khan,Telangana,Hyderabad,36-45,Female,Wholesale
+C0260,Ishita Dubey,Rajasthan,Jaipur,55+,Female,Retail
+C0261,Nandini Ghosh,Punjab,Amritsar,55+,Female,Retail
+C0262,Tanya Bhatnagar,Punjab,Amritsar,36-45,Female,Retail
+C0263,Tarun Patel,Gujarat,Surat,36-45,Male,Retail
+C0264,Manish Malhotra,Maharashtra,Nagpur,18-25,Male,Retail
+C0265,Sneha Kaur,Maharashtra,Nagpur,46-55,Female,Retail
+C0266,Nikhil Sahni,Uttar Pradesh,Lucknow,36-45,Male,Wholesale
+C0267,Usha Pandey,Karnataka,Bengaluru,18-25,Female,Retail
+C0268,Chetna Chauhan,Karnataka,Bengaluru,36-45,Female,Retail
+C0269,Nandini Varma,Punjab,Amritsar,46-55,Female,Retail
+C0270,Ishan Reddy,Madhya Pradesh,Indore,18-25,Male,Retail
+C0271,Yashasvi Varma,Madhya Pradesh,Bhopal,36-45,Female,Retail
+C0272,Kritika Pandey,Delhi,Delhi,18-25,Female,Retail
+C0273,Ravi Gupta,Rajasthan,Jaipur,36-45,Male,Retail
+C0274,Aarav Varma,Madhya Pradesh,Indore,26-35,Male,Retail
+C0275,Sonal Khan,Madhya Pradesh,Bhopal,55+,Female,Wholesale
+C0276,Divya Choudhary,Maharashtra,Nagpur,18-25,Female,Retail
+C0277,Preeti Choudhary,Gujarat,Surat,55+,Female,Retail
+C0278,Lakshmi Shah,Uttar Pradesh,Lucknow,18-25,Female,Retail
+C0279,Ananya Jain,Punjab,Amritsar,46-55,Female,Wholesale
+C0280,Garima Das,Madhya Pradesh,Indore,18-25,Female,Retail
+C0281,Yashasvi Singh,Madhya Pradesh,Bhopal,18-25,Female,Retail
+C0282,Vivek Rao,Maharashtra,Pune,36-45,Male,Wholesale
+C0283,Ishan Banerjee,Madhya Pradesh,Bhopal,26-35,Male,Wholesale
+C0284,Deepika Reddy,Tamil Nadu,Chennai,26-35,Female,Retail
+C0285,Shubham Kapoor,West Bengal,Kolkata,55+,Male,Retail
+C0286,Deepak Joshi,Bihar,Patna,46-55,Male,Wholesale
+C0287,Vidya Sinha,Assam,Guwahati,55+,Female,Retail
+C0288,Aisha Iyer,Tamil Nadu,Coimbatore,18-25,Female,Retail
+C0289,Vinay Mishra,Assam,Guwahati,18-25,Male,Retail
+C0290,Deepak Patel,Tamil Nadu,Coimbatore,46-55,Male,Retail
+C0291,Ishita Nair,Karnataka,Bengaluru,18-25,Female,Retail
+C0292,Sandhya Sharma,Tamil Nadu,Coimbatore,55+,Female,Retail
+C0293,Ankit Sinha,Assam,Guwahati,26-35,Male,Retail
+C0294,Radha Yadav,Tamil Nadu,Chennai,18-25,Female,Retail
+C0295,Bhavna Das,Madhya Pradesh,Bhopal,26-35,Female,Retail
+C0296,Pallavi Sinha,Madhya Pradesh,Bhopal,55+,Female,Retail
+C0297,Garima Sahni,Uttar Pradesh,Lucknow,46-55,Female,Retail
+C0298,Bhavna Pandey,Delhi,Delhi,36-45,Female,Retail
+C0299,Harshit Ghosh,Maharashtra,Nagpur,36-45,Male,Retail
+C0300,Aarti Iyer,Gujarat,Surat,18-25,Female,Retail
+C0301,Manish Reddy,Uttar Pradesh,Lucknow,46-55,Male,Retail
+C0302,Dhruv Patel,Jharkhand,Ranchi,46-55,Male,Retail
+C0303,Anjali Gupta,Madhya Pradesh,Bhopal,18-25,Female,Retail
+C0304,Nandini Yadav,Kerala,Kochi,18-25,Female,Retail
+C0305,Prateek Kaur,Gujarat,Surat,46-55,Male,Retail
+C0306,Kunal Iyer,Karnataka,Bengaluru,36-45,Male,Wholesale
+C0307,Harshit Yadav,Jharkhand,Ranchi,55+,Male,Retail
+C0308,Bhavna Saxena,Tamil Nadu,Chennai,55+,Female,Retail
+C0309,Nikhil Joshi,Punjab,Amritsar,26-35,Male,Wholesale
+C0310,Ankit Shah,Kerala,Kochi,26-35,Male,Wholesale
+C0311,Bhumi Nair,Tamil Nadu,Coimbatore,26-35,Female,Retail
+C0312,Vivek Tripathi,Gujarat,Ahmedabad,36-45,Male,Retail
+C0313,Vandana Sinha,Tamil Nadu,Coimbatore,36-45,Female,Wholesale
+C0314,Sandhya Banerjee,Madhya Pradesh,Indore,26-35,Female,Wholesale
+C0315,Aarti Gupta,Rajasthan,Jaipur,18-25,Female,Retail
+C0316,Ishita Ghosh,Telangana,Hyderabad,55+,Female,Wholesale
+C0317,Varun Das,West Bengal,Kolkata,36-45,Male,Retail
+C0318,Shivani Iyer,Madhya Pradesh,Indore,18-25,Female,Wholesale
+C0319,Rohan Sinha,Kerala,Kochi,18-25,Male,Retail
+C0320,Kritika Yadav,Kerala,Kochi,26-35,Female,Retail
+C0321,Dhruv Sahni,Maharashtra,Pune,18-25,Male,Retail
+C0322,Harshit Rao,Tamil Nadu,Chennai,26-35,Male,Retail
+C0323,Radha Gupta,Bihar,Patna,46-55,Female,Retail
+C0324,Dhruv Bhatnagar,Rajasthan,Jaipur,26-35,Male,Wholesale
+C0325,Tanvi Pandey,Madhya Pradesh,Bhopal,46-55,Female,Retail
+C0326,Varun Kumar,Uttar Pradesh,Lucknow,18-25,Male,Retail
+C0327,Meera Saxena,Tamil Nadu,Coimbatore,18-25,Female,Retail
+C0328,Saloni Pandey,Jharkhand,Ranchi,18-25,Female,Retail
+C0329,Vandana Kumar,Tamil Nadu,Chennai,36-45,Female,Retail
+C0330,Bhumi Reddy,Maharashtra,Pune,55+,Female,Retail
+C0331,Dhruv Banerjee,Kerala,Kochi,18-25,Male,Wholesale
+C0332,Swati Yadav,Madhya Pradesh,Bhopal,55+,Female,Retail
+C0333,Radha Bose,Maharashtra,Nagpur,36-45,Female,Retail
+C0334,Aryan Reddy,Karnataka,Bengaluru,36-45,Male,Retail
+C0335,Himanshu Mukherjee,Gujarat,Surat,26-35,Male,Retail
+C0336,Swati Rao,West Bengal,Kolkata,46-55,Female,Wholesale
+C0337,Rashmi Joshi,Tamil Nadu,Chennai,18-25,Female,Wholesale
+C0338,Preeti Bose,Uttar Pradesh,Lucknow,26-35,Female,Retail
+C0339,Raj Bose,Gujarat,Surat,36-45,Male,Retail
+C0340,Swati Tripathi,Rajasthan,Jaipur,18-25,Female,Wholesale
+C0341,Anjali Mishra,Telangana,Hyderabad,36-45,Female,Retail
+C0342,Lakshmi Sinha,Maharashtra,Nagpur,36-45,Female,Wholesale
+C0343,Saloni Varma,Kerala,Kochi,55+,Female,Retail
+C0344,Dhruv Shukla,Karnataka,Bengaluru,46-55,Male,Retail
+C0345,Prateek Chatterjee,Uttar Pradesh,Lucknow,36-45,Male,Retail
+C0346,Ananya Nair,Uttar Pradesh,Lucknow,46-55,Female,Retail
+C0347,Nandini Jain,Tamil Nadu,Coimbatore,36-45,Female,Retail
+C0348,Divya Saxena,Madhya Pradesh,Indore,36-45,Female,Retail
+C0349,Bhavesh Choudhary,Maharashtra,Nagpur,36-45,Male,Retail
+C0350,Nikhil Bhatnagar,Tamil Nadu,Chennai,55+,Male,Retail
+C0351,Pallavi Bose,Tamil Nadu,Chennai,18-25,Female,Retail
+C0352,Kavya Malhotra,Delhi,Delhi,55+,Female,Retail
+C0353,Pooja Sahni,Kerala,Kochi,46-55,Female,Wholesale
+C0354,Vandana Gupta,Madhya Pradesh,Bhopal,36-45,Female,Retail
+C0355,Uday Kumar,Telangana,Hyderabad,18-25,Male,Wholesale
+C0356,Saloni Banerjee,Maharashtra,Nagpur,55+,Female,Retail
+C0357,Suresh Sinha,Gujarat,Ahmedabad,55+,Male,Retail
+C0358,Riya Kapoor,Telangana,Hyderabad,26-35,Female,Wholesale
+C0359,Pooja Joshi,Tamil Nadu,Coimbatore,18-25,Female,Wholesale
+C0360,Aisha Reddy,Karnataka,Bengaluru,55+,Female,Retail
+C0361,Vinay Jain,West Bengal,Kolkata,36-45,Male,Retail
+C0362,Jatin Kapoor,Tamil Nadu,Chennai,26-35,Male,Wholesale
+C0363,Aditya Sahni,Jharkhand,Ranchi,55+,Male,Retail
+C0364,Tanvi Gupta,Punjab,Amritsar,18-25,Female,Retail
+C0365,Kritika Tripathi,Madhya Pradesh,Bhopal,46-55,Female,Wholesale
+C0366,Vandana Choudhary,Tamil Nadu,Chennai,36-45,Female,Retail
+C0367,Pooja Tiwari,Madhya Pradesh,Bhopal,36-45,Female,Retail
+C0368,Tanvi Mukherjee,West Bengal,Kolkata,26-35,Female,Retail
+C0369,Bhavesh Dubey,Madhya Pradesh,Bhopal,26-35,Male,Retail
+C0370,Nikhil Pillai,Maharashtra,Pune,36-45,Male,Wholesale
+C0371,Simran Nair,Karnataka,Bengaluru,36-45,Female,Retail
+C0372,Tanvi Mishra,Tamil Nadu,Chennai,36-45,Female,Retail
+C0373,Gaurav Yadav,West Bengal,Kolkata,55+,Male,Wholesale
+C0374,Mohit Jain,Punjab,Amritsar,55+,Male,Retail
+C0375,Usha Bose,Maharashtra,Mumbai,18-25,Female,Retail
+C0376,Vandana Mehta,Gujarat,Ahmedabad,55+,Female,Retail
+C0377,Aditya Varma,Jharkhand,Ranchi,36-45,Male,Retail
+C0378,Vinay Tripathi,Maharashtra,Pune,46-55,Male,Retail
+C0379,Deepak Chauhan,West Bengal,Kolkata,46-55,Male,Retail
+C0380,Priya Kaur,Gujarat,Surat,55+,Female,Retail
+C0381,Lakshmi Gupta,Kerala,Kochi,55+,Female,Retail
+C0382,Aisha Kumar,Tamil Nadu,Coimbatore,18-25,Female,Retail
+C0383,Saurabh Iyer,Telangana,Hyderabad,18-25,Male,Retail
+C0384,Kavya Saxena,Madhya Pradesh,Indore,26-35,Female,Wholesale
+C0385,Vandana Pillai,Gujarat,Ahmedabad,26-35,Female,Retail
+C0386,Shivani Tiwari,Bihar,Patna,36-45,Female,Retail
+C0387,Gaurav Singh,Madhya Pradesh,Bhopal,46-55,Male,Wholesale
+C0388,Ravi Mukherjee,Kerala,Kochi,18-25,Male,Retail
+C0389,Sonal Agarwal,Telangana,Hyderabad,46-55,Female,Retail
+C0390,Suresh Sahni,Maharashtra,Nagpur,36-45,Male,Retail
+C0391,Ankur Malhotra,Jharkhand,Ranchi,26-35,Male,Retail
+C0392,Varun Choudhary,Maharashtra,Nagpur,55+,Male,Retail
+C0393,Chetna Saxena,Telangana,Hyderabad,26-35,Female,Wholesale
+C0394,Kritika Sahni,Gujarat,Surat,55+,Female,Wholesale
+C0395,Manish Kapoor,Punjab,Amritsar,55+,Male,Retail
+C0396,Ankit Bose,Delhi,Delhi,26-35,Male,Wholesale
+C0397,Radha Banerjee,Tamil Nadu,Coimbatore,26-35,Female,Retail
+C0398,Shivani Gupta,Gujarat,Surat,55+,Female,Retail
+C0399,Kritika Saxena,Uttar Pradesh,Lucknow,55+,Female,Retail
+C0400,Shivani Chatterjee,Bihar,Patna,55+,Female,Retail
+C0401,Aryan Sahni,Gujarat,Surat,18-25,Male,Wholesale
+C0402,Vidya Patel,Maharashtra,Mumbai,55+,Female,Retail
+C0403,Sachin Chauhan,Assam,Guwahati,46-55,Male,Retail
+C0404,Chetna Sharma,Tamil Nadu,Chennai,26-35,Female,Retail
+C0405,Ishan Kapoor,Maharashtra,Mumbai,46-55,Male,Retail
+C0406,Rajan Shah,Madhya Pradesh,Bhopal,55+,Male,Wholesale
+C0407,Bhavesh Gupta,Madhya Pradesh,Bhopal,26-35,Male,Retail
+C0408,Rashmi Banerjee,Maharashtra,Nagpur,36-45,Female,Wholesale
+C0409,Preeti Chatterjee,Gujarat,Surat,55+,Female,Retail
+C0410,Suresh Saxena,Bihar,Patna,26-35,Male,Wholesale
+C0411,Vinay Khan,Uttar Pradesh,Lucknow,36-45,Male,Wholesale
+C0412,Riya Pillai,Bihar,Patna,36-45,Female,Retail
+C0413,Uday Nair,Telangana,Hyderabad,55+,Male,Retail
+C0414,Jyoti Singh,Kerala,Kochi,26-35,Female,Retail
+C0415,Deepika Sinha,Rajasthan,Jaipur,46-55,Female,Retail
+C0416,Sonal Mishra,Jharkhand,Ranchi,36-45,Female,Retail
+C0417,Bhumi Mukherjee,Maharashtra,Pune,26-35,Female,Retail
+C0418,Sneha Khan,Maharashtra,Pune,18-25,Female,Retail
+C0419,Anjali Tripathi,Telangana,Hyderabad,26-35,Female,Retail
+C0420,Tanvi Jain,Madhya Pradesh,Indore,46-55,Female,Retail
+C0421,Raj Nair,Gujarat,Surat,36-45,Male,Retail
+C0422,Gaurav Malhotra,Maharashtra,Pune,55+,Male,Wholesale
+C0423,Amit Joshi,Madhya Pradesh,Indore,26-35,Male,Wholesale
+C0424,Amit Singh,Bihar,Patna,26-35,Male,Wholesale
+C0425,Vikram Bose,Maharashtra,Mumbai,36-45,Male,Retail
+C0426,Himanshu Rao,Uttar Pradesh,Lucknow,46-55,Male,Wholesale
+C0427,Swati Banerjee,Bihar,Patna,26-35,Female,Wholesale
+C0428,Priya Mishra,Gujarat,Ahmedabad,18-25,Female,Retail
+C0429,Preeti Mehta,West Bengal,Kolkata,18-25,Female,Wholesale
+C0430,Vikram Malhotra,Gujarat,Ahmedabad,26-35,Male,Retail
+C0431,Lakshmi Shukla,Madhya Pradesh,Bhopal,36-45,Female,Retail
+C0432,Harshit Joshi,Tamil Nadu,Chennai,46-55,Male,Retail
+C0433,Saurabh Agarwal,Rajasthan,Jaipur,46-55,Male,Retail
+C0434,Tarun Rao,Uttar Pradesh,Lucknow,55+,Male,Wholesale
+C0435,Garima Kumar,Delhi,Delhi,18-25,Female,Retail
+C0436,Nikhil Singh,Madhya Pradesh,Bhopal,36-45,Male,Retail
+C0437,Vikram Sahni,Punjab,Amritsar,26-35,Male,Retail
+C0438,Kunal Tripathi,Tamil Nadu,Chennai,46-55,Male,Wholesale
+C0439,Aarti Sahni,Madhya Pradesh,Indore,55+,Female,Wholesale
+C0440,Sonal Kaur,Maharashtra,Pune,55+,Female,Wholesale
+C0441,Pooja Banerjee,Kerala,Kochi,18-25,Female,Wholesale
+C0442,Ishan Chauhan,Jharkhand,Ranchi,55+,Male,Retail
+C0443,Sonal Iyer,West Bengal,Kolkata,36-45,Female,Wholesale
+C0444,Pallavi Dubey,Gujarat,Ahmedabad,55+,Female,Retail
+C0445,Shivani Sinha,Delhi,Delhi,46-55,Female,Retail
+C0446,Meera Tiwari,Assam,Guwahati,18-25,Female,Retail
+C0447,Vivek Bhatnagar,Maharashtra,Nagpur,36-45,Male,Wholesale
+C0448,Deepak Bose,Madhya Pradesh,Indore,36-45,Male,Wholesale
+C0449,Swati Chauhan,Karnataka,Bengaluru,46-55,Female,Retail
+C0450,Megha Joshi,Tamil Nadu,Chennai,46-55,Female,Retail
+C0451,Jyoti Sinha,Maharashtra,Nagpur,46-55,Female,Retail
+C0452,Swati Gupta,Kerala,Kochi,18-25,Female,Retail
+C0453,Sonal Singh,Madhya Pradesh,Bhopal,26-35,Female,Wholesale
+C0454,Rohan Agarwal,Maharashtra,Mumbai,36-45,Male,Retail
+C0455,Swati Shukla,Jharkhand,Ranchi,46-55,Female,Wholesale
+C0456,Saurabh Tiwari,Kerala,Kochi,26-35,Male,Retail
+C0457,Ishan Bose,Madhya Pradesh,Indore,55+,Male,Wholesale
+C0458,Aryan Kumar,Gujarat,Ahmedabad,18-25,Male,Retail
+C0459,Amit Sinha,Punjab,Amritsar,18-25,Male,Retail
+C0460,Ankit Singh,Tamil Nadu,Coimbatore,26-35,Male,Retail
+C0461,Sandhya Nair,Maharashtra,Pune,55+,Female,Retail
+C0462,Manish Banerjee,Maharashtra,Pune,46-55,Male,Retail
+C0463,Bhavesh Ghosh,Assam,Guwahati,26-35,Male,Retail
+C0464,Saloni Chauhan,Kerala,Kochi,46-55,Female,Wholesale
+C0465,Aisha Shah,Madhya Pradesh,Indore,26-35,Female,Retail
+C0466,Rohan Patel,Tamil Nadu,Chennai,46-55,Male,Wholesale
+C0467,Tanya Shah,Madhya Pradesh,Indore,55+,Female,Retail
+C0468,Kavya Kumar,Rajasthan,Jaipur,26-35,Female,Retail
+C0469,Dhruv Sinha,Kerala,Kochi,18-25,Male,Retail
+C0470,Rahul Chauhan,Rajasthan,Jaipur,46-55,Male,Retail
+C0471,Aarti Bose,Karnataka,Bengaluru,26-35,Female,Wholesale
+C0472,Yashasvi Ghosh,Gujarat,Ahmedabad,46-55,Female,Retail
+C0473,Anjali Patel,Maharashtra,Mumbai,26-35,Female,Wholesale
+C0474,Jatin Tripathi,Maharashtra,Pune,55+,Male,Wholesale
+C0475,Kritika Kumar,Jharkhand,Ranchi,36-45,Female,Wholesale
+C0476,Jyoti Tiwari,Jharkhand,Ranchi,36-45,Female,Retail
+C0477,Saloni Tiwari,Telangana,Hyderabad,46-55,Female,Wholesale
+C0478,Aisha Kaur,Kerala,Kochi,36-45,Female,Retail
+C0479,Usha Khan,Tamil Nadu,Chennai,18-25,Female,Retail
+C0480,Vidya Mukherjee,Madhya Pradesh,Indore,36-45,Female,Retail
+C0481,Anjali Khan,Maharashtra,Nagpur,55+,Female,Wholesale
+C0482,Saloni Ghosh,Gujarat,Surat,36-45,Female,Wholesale
+C0483,Riya Varma,Tamil Nadu,Coimbatore,26-35,Female,Wholesale
+C0484,Divya Jain,Tamil Nadu,Chennai,55+,Female,Retail
+C0485,Sneha Bose,Karnataka,Bengaluru,18-25,Female,Wholesale
+C0486,Megha Gupta,Maharashtra,Pune,18-25,Female,Wholesale
+C0487,Arjun Kaur,Madhya Pradesh,Bhopal,46-55,Male,Retail
+C0488,Rashmi Varma,Maharashtra,Mumbai,18-25,Female,Retail
+C0489,Megha Agarwal,Maharashtra,Mumbai,55+,Female,Wholesale
+C0490,Sonal Nair,Maharashtra,Mumbai,55+,Female,Wholesale
+C0491,Neha Joshi,Telangana,Hyderabad,18-25,Female,Retail
+C0492,Sahil Kapoor,Punjab,Amritsar,55+,Male,Retail
+C0493,Divya Mishra,Maharashtra,Nagpur,18-25,Female,Retail
+C0494,Lakshmi Tiwari,Assam,Guwahati,26-35,Female,Wholesale
+C0495,Dhruv Bose,Karnataka,Bengaluru,46-55,Male,Retail
+C0496,Tanvi Tripathi,Delhi,Delhi,18-25,Female,Wholesale
+C0497,Dhruv Varma,Madhya Pradesh,Indore,36-45,Male,Retail
+C0498,Harshit Banerjee,Delhi,Delhi,26-35,Male,Retail
+C0499,Usha Tripathi,Rajasthan,Jaipur,18-25,Female,Wholesale
+C0500,Uday Chatterjee,Assam,Guwahati,18-25,Male,Retail

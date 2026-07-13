@@ -1,0 +1,21 @@
+RegionID,City,State,Zone,Tier
+R01,Mumbai,Maharashtra,West,Tier-1
+R02,Delhi,Delhi,North,Tier-1
+R03,Bengaluru,Karnataka,South,Tier-1
+R04,Hyderabad,Telangana,South,Tier-1
+R05,Chennai,Tamil Nadu,South,Tier-1
+R06,Kolkata,West Bengal,East,Tier-1
+R07,Ahmedabad,Gujarat,West,Tier-1
+R08,Pune,Maharashtra,West,Tier-1
+R09,Jaipur,Rajasthan,North,Tier-2
+R10,Lucknow,Uttar Pradesh,North,Tier-2
+R11,Surat,Gujarat,West,Tier-2
+R12,Kochi,Kerala,South,Tier-2
+R13,Nagpur,Maharashtra,West,Tier-2
+R14,Indore,Madhya Pradesh,North,Tier-2
+R15,Coimbatore,Tamil Nadu,South,Tier-2
+R16,Patna,Bihar,East,Tier-3
+R17,Bhopal,Madhya Pradesh,North,Tier-3
+R18,Ranchi,Jharkhand,East,Tier-3
+R19,Guwahati,Assam,East,Tier-3
+R20,Amritsar,Punjab,North,Tier-3
