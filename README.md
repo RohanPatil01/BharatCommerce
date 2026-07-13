@@ -89,14 +89,18 @@ Full measure list, calculated columns, and slicer configuration are documented i
 
 ```
 BharatCommerce/
+│
 ├── README.md
-├── BharatCommerce.pbix                     # Power BI report file
-├── BharatCommerce.pdf                       # Exported dashboard (static preview)
-├── BharatCommerce_PowerBI_Project.docx      # Full project documentation
-├── SalesTransactions.csv                    # Fact table (5,500 rows)
-├── Products.csv                             # Dimension (30 rows)
-├── Customers.csv                            # Dimension (500 rows)
-├── Regions.csv                              # Dimension (20 rows)
+├── BharatCommerce.pbix
+├── BharatCommerce.pdf
+├── BharatCommerce_PowerBI_Project.docx
+│
+├── data/
+│   ├── SalesTransactions.csv
+│   ├── Products.csv
+│   ├── Customers.csv
+│   └── Regions.csv
+│
 └── screenshots/
     ├── 01-executive-summary.jpg
     ├── 02-product-analysis.jpg
